@@ -1,25 +1,31 @@
-# Kubernetes Template Project
+# Project Funding
 
-The Kubernetes Template Project is a template for starting new projects in the GitHub organizations owned by Kubernetes. All Kubernetes projects, at minimum, must have the following files:
+Need to pay for something on behalf of the Kubernetes Project? This is the document to read. In general there are a few rough types of costs that can be covered:
 
-- a `README.md` outlining the project goals, sponsoring sig, and community contact information
-- an `OWNERS` with the project leads listed as approvers ([docs on `OWNERS` files][owners])
-- a `CONTRIBUTING.md` outlining how to contribute to the project
-- an unmodified copy of `code-of-conduct.md` from this repo, which outlines community behavior and the consequences of breaking the code
-- a `LICENSE` which must be Apache 2.0 for code projects, or [Creative Commons 4.0] for documentation repositories, without any custom content
-- a `SECURITY_CONTACTS` with the contact points for the Product Security Team 
-  to reach out to for triaging and handling of incoming issues. They must agree to abide by the
-  [Embargo Policy](https://git.k8s.io/security/private-distributors-list.md#embargo-policy)
-  and will be removed and replaced if they violate that agreement.
+- Infrastructure: testing infra, video conferencing, mailing lists, domains, etc
+- Events: SIG face-to-face meetings, developer summits, etc
+- Consulting services: docs writers, security auditors, etc
+- Community Gifts: swag codes, thank you cards, etc
 
-## Community, discussion, contribution, and support
+## How to request funding
 
-Learn how to engage with the Kubernetes community on the [community page](http://kubernetes.io/community/).
+The GitHub repo github.com/kubernetes/funding is used for all funding requests. The issue templates will tell you the information that must be provided.
 
-You can reach the maintainers of this project at:
+After filing an issue please expect to wait 1 week for approval and potentially another week to a month for funding from the CNCF depending on the request size.
 
-- [Slack](http://slack.k8s.io/)
-- [Mailing List](https://groups.google.com/forum/#!forum/kubernetes-dev)
+## SIG or Committee Approvals
+
+Please provide links to show the appropriate approval process was followed by including links to the relevant approvals (meeting minutes, e-mail thread, etc.)
+
+## FAQ
+
+**What happens behind the scenes?**
+
+If the request is approved it will then go through the CNCF Service Desk however only a small number of people from the project can directly make requests.
+
+**Who Pays for this stuff?**
+
+The Kubernetes project relies on a number of paid services for day-to-day operations; this includes Zoom for video calls, Google cloud for test infrastructure, and Netlify for website deployments. Also, the project covers one-off costs like space for developer summits to bring developers together or swag incentivize and celebrate project successes. And these bills are paid for by CNCF members via their membership fees and at times in-kind donations.
 
 ### Code of conduct
 
