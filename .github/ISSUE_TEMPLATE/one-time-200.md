@@ -2,6 +2,9 @@
 name: One-time funding under $200USD
 title: request: one-time $NNNUSD to fund MMM
 about: a non-recurring request with easiest process
+labels: ''
+assignees: ''
+
 ---
 
 <!--

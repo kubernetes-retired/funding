@@ -1,7 +1,10 @@
---
+---
 name: Recurring expense
 title: request: recurring $NNNUSD/month to fund MMM
 about: a recurring request with lots of questions
+labels: ''
+assignees: ''
+
 ---
 
 <!--
