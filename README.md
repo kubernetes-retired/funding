@@ -9,7 +9,7 @@ Need to pay for something on behalf of the Kubernetes Project? This is the docum
 
 ## How to request funding
 
-The GitHub repo github.com/kubernetes/funding is used for all funding requests. The issue templates will tell you the information that must be provided.
+This GitHub repo, https://github.com/kubernetes/funding, is used for all funding requests. The issue templates will tell you the information that must be provided.
 
 After filing an issue please expect to wait 1 week for approval and potentially another week to a month for funding from the CNCF depending on the request size.
 
