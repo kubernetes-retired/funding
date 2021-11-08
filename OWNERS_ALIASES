@@ -1,11 +1,11 @@
-# See the OWNERS docs at https://go.k8s.io/owners#owners_aliases
+# See the OWNERS docs: https://go.k8s.io/owners#owners_aliases
 
 aliases:
   steering-committee:
     - cblecker
-    - derekwaynecarr
     - dims
+    - justaugustus
     - liggitt
     - mrbobbytables
-    - nikhita
     - parispittman
+    - tpepper
